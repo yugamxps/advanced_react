@@ -6,7 +6,13 @@ import React, { useState } from 'react';
 // value, onChange
 
 const ControlledInputs = () => {
-  return <h1>controlled inputs</h1>;
+  return (
+    <>
+      <article>
+        <form action=' '></form>
+      </article>
+    </>
+  );
 };
 
 export default ControlledInputs;
